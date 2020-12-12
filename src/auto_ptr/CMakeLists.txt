@@ -1,0 +1,1 @@
+add_executable(auto_ptr main.cpp)

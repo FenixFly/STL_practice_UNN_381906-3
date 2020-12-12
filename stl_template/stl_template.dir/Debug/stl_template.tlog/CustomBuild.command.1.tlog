@@ -1,0 +1,10 @@
+^C:\USERS\ILIAK\ONEDRIVE\РАБОЧИЙ СТОЛ\STL_PRACTICE_UNN_381906-3\SRC\STL_TEMPLATE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/iliak/OneDrive/Рабочий стол/STL_practice_UNN_381906-3/src" "-BC:/Users/iliak/OneDrive/Рабочий стол/STL_practice_UNN_381906-3" --check-stamp-file "C:/Users/iliak/OneDrive/Рабочий стол/STL_practice_UNN_381906-3/stl_template/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

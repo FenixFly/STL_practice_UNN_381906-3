@@ -1,0 +1,4 @@
+C:/Users/iliak/OneDrive/Рабочий стол/STL_practice_UNN_381906-3/CMakeFiles/ALL_BUILD.dir
+C:/Users/iliak/OneDrive/Рабочий стол/STL_practice_UNN_381906-3/CMakeFiles/ZERO_CHECK.dir
+C:/Users/iliak/OneDrive/Рабочий стол/STL_practice_UNN_381906-3/stl_template/CMakeFiles/stl_template.dir
+C:/Users/iliak/OneDrive/Рабочий стол/STL_practice_UNN_381906-3/stl_template/CMakeFiles/ALL_BUILD.dir

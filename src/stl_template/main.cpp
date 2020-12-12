@@ -10,23 +10,23 @@ int main()
     deque<int>test_deque;
     for (int i = 0; i < 10; i++)
     {
-        test_deque.push_back(i*5); //добавляем в дек 10 элементов
+        test_deque.push_back(i * 5); //add elements 
     }
     test_deque.push_front(10);
-   
-       for (auto el : test_deque)
-       {
-           cout << el << " "; //вывод дека
-       }
-       cout << endl;
 
-
-       sort(test_deque.begin(), test_deque.end(), [](int a, int b) {return a > b; }); //отсортировать дек по убыванию
-
-    test_deque.pop_back(); //удалить последний элемент
     for (auto el : test_deque)
     {
-        cout << el << " "; //вывод дека
+        cout << el << " "; //deque output 
+    }
+    cout << endl;
+
+
+    sort(test_deque.begin(), test_deque.end(), [](int a, int b) {return a > b; }); //sort deque by descending
+
+    test_deque.pop_back(); //delete last element
+    for (auto el : test_deque)
+    {
+        cout << el << " "; 
     }
 
 

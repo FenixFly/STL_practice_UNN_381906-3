@@ -1,3 +1,3 @@
-project(stl_template CXX)
+project(stl_count CXX)
 
-add_executable(stl_template main.cpp)
+add_executable(stl_count main.cpp)

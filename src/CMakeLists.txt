@@ -2,6 +2,8 @@
 project(STL_samples CXX) 
 
 
+add_subdirectory (stl_remove)
+
 add_subdirectory(stl_template)
 
 

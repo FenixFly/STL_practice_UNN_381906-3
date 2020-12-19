@@ -16,4 +16,4 @@ add_subdirectory(stl_for_each)
 
 add_subdirectory(stl_count)
 
-
+add_subdirectory(stl_generate)

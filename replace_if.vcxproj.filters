@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\iliak\OneDrive\Рабочий стол\STL_practice_2\src\replace_if.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\iliak\OneDrive\Рабочий стол\STL_practice_2\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{74E1A1C2-897E-32BC-9472-E017811B2021}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

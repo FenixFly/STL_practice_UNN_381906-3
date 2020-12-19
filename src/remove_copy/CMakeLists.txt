@@ -1,0 +1,1 @@
+add_executable(remove remove_and_remove_copy.cpp)

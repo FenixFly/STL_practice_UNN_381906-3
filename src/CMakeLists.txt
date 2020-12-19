@@ -34,3 +34,5 @@ add_subdirectory(stl_min_max_and_min_max_element)
 add_subdirectory(stl_reverse_copy)
 
 add_subdirectory(stl_setopstr)
+
+add_subdirectory(stl_replace)
